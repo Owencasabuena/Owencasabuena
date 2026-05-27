@@ -1,7 +1,7 @@
 ## 👋 Hi there, my name is Owen Darl Casabuena!
 
 💻 Aspiring Software & Web Developer | Future Computer Science Professor <br>
-📚 Incoming 2nd Year CS Student from the Philippines
+📚 3rd Year CS Student from the Philippines
 
 # 🙋‍♂️ About me
 I'm a Computer Science student from the Philippines, passionate about <strong> <em> building web applications </em> </strong>and <strong> <em> teaching coding </em> </strong> to my fellow students. I’m always eager to learn new technologies and grow as both a developer and an educator. <br>
